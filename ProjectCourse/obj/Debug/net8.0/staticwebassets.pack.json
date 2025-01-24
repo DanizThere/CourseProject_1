@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\ProjectCourse\\ProjectCourse\\wwwroot\\Images\\apteka.svg",
+      "PackagePath": "staticwebassets\\Images\\apteka.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\ProjectCourse\\ProjectCourse\\wwwroot\\Images\\apteka_icon.svg",
+      "PackagePath": "staticwebassets\\Images\\apteka_icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\ProjectCourse\\ProjectCourse\\wwwroot\\Styles\\Style.css",
+      "PackagePath": "staticwebassets\\Styles\\Style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectCourse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectCourse.props",
+      "PackagePath": "build\\ProjectCourse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectCourse.props",
+      "PackagePath": "buildMultiTargeting\\ProjectCourse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectCourse.props",
+      "PackagePath": "buildTransitive\\ProjectCourse.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

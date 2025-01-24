@@ -1,0 +1,126 @@
+*{
+  margin: 0;
+  padding: 0;
+  color:rgb(60, 60, 60);
+  font-weight: 150;
+  text-decoration-line: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+nav ul{
+  display: flex;
+  gap: 25px;
+  list-style-type: none;
+}
+
+li{
+  font-size: 20px;
+}
+
+p{
+  font-size: 18px;
+}
+
+label{
+  font-size: 18px;
+}
+
+body{
+  background-color: rgb(184, 240, 190);
+}
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.container section{
+  display: grid;
+  grid-column: auto;
+  gap: 10px;
+}
+
+header{
+  background-color: rgb(222, 241, 225);
+  margin-bottom: 50px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+header .container{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links{
+  display: flex;
+  list-style-type: none;
+  gap: 75px;
+}
+
+main .container{
+  background-color: white;
+  padding: 0.6em 1.2em;
+  border-radius: 25px;
+}
+
+.links a:hover{
+  text-decoration-line:underline;
+}
+
+.list{
+  margin: 10px 0;
+}
+
+.info{
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 0.6em 1.2em;
+  padding-bottom: 2em;
+  width: 50%;
+  align-items: center;
+}
+
+.selectOption{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.container .authorization{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  row-gap: 25px;
+}
+
+.authorization{
+  flex-direction: column;
+  margin-top: 300px;
+  height: 300px;
+  background-color: rgb(105, 252, 120);
+  border-radius: 25px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 15px;
+}
+
+.renders{
+  background-color: rgb(172, 224, 178);
+  margin: 25px;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+footer{
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  flex-direction: column;
+}

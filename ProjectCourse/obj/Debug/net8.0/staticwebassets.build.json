@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "oELuIb9XfHHHCwd/Hj47aYBIySQVaKplr1i5jefuwbg=",
+  "Source": "ProjectCourse",
+  "BasePath": "_content/ProjectCourse",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectCourse\\wwwroot",
+      "Source": "ProjectCourse",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\ProjectCourse\\ProjectCourse\\wwwroot\\",
+      "BasePath": "_content/ProjectCourse",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
